@@ -146,7 +146,8 @@ const styles=StyleSheet.create({
     backgroundColor: '#5637DD',
     textAlign: 'center',
     color: '#fff',
-    marginBottom: 20
+    marginBottom: 20,
+    marginTop: Platform.OS === 'android' ? 40 : 50
 },
     modalText: {
     fontSize: 18,
