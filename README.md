@@ -13,14 +13,14 @@ Features
 
 
 Project Structure 
-─ android/         - Native Android project files
-─ ios/              - Native iOS project files
-─ assets/images/    - App images/icons
-─ components/       - Reusable UI components
-─ features/         - Redux slices/feature logic
-─ screens/          - App screens (Directory, Detail, Reservation, etc.)
-─ shared/           - Shared utilities/constants
-─ screenshots/       - App screenshots
+ android/         - Native Android project files
+ ios/              - Native iOS project files
+ assets/images/    - App images/icons
+ components/       - Reusable UI components
+ features/         - Redux slices/feature logic
+ screens/          - App screens (Directory, Detail, Reservation, etc.)
+ shared/           - Shared utilities/constants
+ screenshots/       - App screenshots
 
 
 
